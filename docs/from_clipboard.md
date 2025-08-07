@@ -1,0 +1,1208 @@
+Will 保哥的技術交流中心 - 你現在可以在 VS Code Insiders 中啟用 TODO 清單...... | Facebook
+
+    名稱: Will 保哥的技術交流中心 - 你現在可以在 VS Code Insiders 中啟用 TODO 清單...... | Facebook
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.facebook.com/will.fans/posts/1190016486485772?rdid=1vhMFxbpRyZBgoiC)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-07 21:24
+    Note: （空）
+
+🚀 AI時代的學習革命：如何用ChatGPT建立你的個人知識管理系統
+
+    名稱: 🚀 AI時代的學習革命：如何用ChatGPT建立你的個人知識管理系統
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://share.google/nyizhWP2j5CrYJBe6)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-07 16:53
+    Note: （空）
+
+https://www.facebook.com/share/p/1Zhuzb4FfA/?mibextid=wwXIfr  《姐姐聊ETF：大盤VOO、SPY、IVV、SPLG、RSP、VTI、VT、VXUS》<br><br>前陣子發生了一件出乎姐姐意料的事，簡短寫的一篇回應粉絲提問，講如果是定期定額的話更適合買ETF而不是買股票然後分享了兩個非常基本的ETF組合（VOO+SPYG；VOO+VGT），竟然成了這個粉專有史以來被轉發最多次的！？（各位粉絲我真是猜不透你們啊！夠性格！）所以大家可能其實需要一些ETF的介紹嗎？正好姐姐也是有投資ETF，因為大家都知道的原因（就是我很討厭賠錢啦），收益穩定的ETF是我投資組合裡的大宗（有自己獨立的帳戶，方便我追蹤股票和ETF的損益，不要混在一起），那我就三不五時也來介紹一些ETF好了。今天會從最基本的大盤ETF開始，因為真的很基本啦，所以如果這些你已經都知道了那就跳過嘍！<br><br>大盤ETF是指追蹤總體股票市場走勢的ETF，通常成分是大型指數包括的公司，比如標普500的500家大市值公司（代表美股的80%市值）。如果只想買一檔ETF的話，大盤ETF就是不二之選。如果要配置ETF組合的話，一般會用“大盤 + 成長股”或者“大盤 + 成長股 + 避險”，總之大盤幾乎都佔據中流砥柱的位置。<br><br>追蹤美股的大盤ETF包括：VOO、SPY、IVV、SPLG、RSP。其中VOO、SPY、IVV、SPLG是“依市值加權”，RSP是“等權重”ETF，意思是雖然都是追蹤標普的500家公司，前面四檔投入各公司的資金是按照公司市值大小比例分配，所以它們目前的前十大持股都是：NVDA、MSFT、AAPL、AMZN、META、AVGO、GOOGL、GOOG、BRK.B、TSLA；RSP則是對500家公司一視同仁，不管規模大小都投入相等資金，也就是每家公司佔比都是0.2%左右（相對於在VOO、SPY、IVV、SPLG中最大的NVDA就佔了差不多6.5%）。所以在龍頭股領漲的時候，VOO、SPY、IVV、SPLG會漲得比RSP更明顯，而相反的在資金輪動到其他股票的時候，RSP就會漲得比較多，由於近年股市都是由大型科技公司主導，VOO、SPY、IVV、SPLG的十年年化報酬率差不多是13.5%，而RSP是10.45%。所以現在買大盤指數ETF的人大部分都是買“依市值加權”的前面四檔。<br><br>那麼這四檔ETF有什麼不同呢？基本上在我們最注重的報酬率方面區別很小（十年年化報酬率13.5%-13.61%），如果要說有什麼不同的話，大概是：<br><br>SPY：流動性最高，成交量大，買賣價差小，但老實說SPY、VOO、IVV的流通性和成交量雖然沒辦法跟SPY比，但在所有ETF中也算很高的了，所以對散戶來說沒有什麼區別，只有SPLG比較差一點而已。做選擇權的投資人好像會比較喜歡SPY，因為流通性對選擇權來說更重要。不過SPY的管理費是最貴的（0.0945%）。<br><br>SPLG：管理費最低（0.02%），單價也低（現在是$74左右，不像其他幾檔都在$500以上），雖然現在都可以用小於一單位的零股買賣但零股只能現價買，無法定價交易，所以喜歡整數買賣資金又不大的投資人會偏好SPLG。<br><br>VOO、IVV：這兩檔我實在說不出有什麼區別，不管報酬率、資產規模、管理費（都是0.03%）都差不多。如果想買規模大一點的ETF又不想付高管理費的話可以在這兩檔中二選一。我自己是用VOO但好像僅僅是因為一開始選的是VOO後來就一直繼續買它了，我覺得買IVV對我來說也沒什麼不同。<br><br>VTI也是投資美國整體市場，但它的覆蓋範圍超過標普的500家，是大約有3500成分股的“全市場”ETF，其中中小型企業佔20%，十年年化報酬率差不多12.9%，不過在2016和2020年VTI是打敗標普500指數ETF的。<br><br>如果不想把投資侷限在美股，可以考慮VT和VXUS，兩者的區別是前者是全球包括美國，而後者是針對“美國以外”的市場，也就是說，如果已經持有美股大盤ETF了，買VT就會在美國的部分重複（美股因為市場大，所以佔VT的60%以上）。如果你想美國和世界股票通吃分散風險的話，可以只買VT就好，或者買一檔美股大盤ETF加上VXUS。在過去十年，由於美股領先全球市場，VT的年化報酬率是10%，VXUS是6.3%。不過今年世界股票相對於美股表現更亮眼，到目前的報酬率是VT10.66%，VXUS17.27%，都遠超過美國大盤的6.83%，所以說我們不能只拿過去的歷史來預測未來。姐姐自己現在用的組合是VOO + VXUS。（我有時候會加上小市值股VTWO和SCZ來補足大盤ETF沒有覆蓋到的部分，不過那就不在今天的介紹範圍內了。）<br><br>另外附帶說明道瓊和那斯達克指數也有自己的ETF：DIA和QQQ，不過道瓊指數因為只有30檔，不適合用來代表大盤，而QQQ由於那斯達克以科技公司為主，性質更接近成長股而不是大盤股，所以之後會在放在成長股那一組來介紹。
+
+    名稱: https://www.facebook.com/share/p/1Zhuzb4FfA/?mibextid=wwXIfr  《姐姐聊ETF：大盤VOO、SPY、IVV、SPLG、RSP、VTI、VT、VXUS》<br><br>前陣子發生了一件出乎姐姐意料的事，簡短寫的一篇回應粉絲提問，講如果是定期定額的話更適合買ETF而不是買股票然後分享了兩個非常基本的ETF組合（VOO+SPYG；VOO+VGT），竟然成了這個粉專有史以來被轉發最多次的！？（各位粉絲我真是猜不透你們啊！夠性格！）所以大家可能其實需要一些ETF的介紹嗎？正好姐姐也是有投資ETF，因為大家都知道的原因（就是我很討厭賠錢啦），收益穩定的ETF是我投資組合裡的大宗（有自己獨立的帳戶，方便我追蹤股票和ETF的損益，不要混在一起），那我就三不五時也來介紹一些ETF好了。今天會從最基本的大盤ETF開始，因為真的很基本啦，所以如果這些你已經都知道了那就跳過嘍！<br><br>大盤ETF是指追蹤總體股票市場走勢的ETF，通常成分是大型指數包括的公司，比如標普500的500家大市值公司（代表美股的80%市值）。如果只想買一檔ETF的話，大盤ETF就是不二之選。如果要配置ETF組合的話，一般會用“大盤 + 成長股”或者“大盤 + 成長股 + 避險”，總之大盤幾乎都佔據中流砥柱的位置。<br><br>追蹤美股的大盤ETF包括：VOO、SPY、IVV、SPLG、RSP。其中VOO、SPY、IVV、SPLG是“依市值加權”，RSP是“等權重”ETF，意思是雖然都是追蹤標普的500家公司，前面四檔投入各公司的資金是按照公司市值大小比例分配，所以它們目前的前十大持股都是：NVDA、MSFT、AAPL、AMZN、META、AVGO、GOOGL、GOOG、BRK.B、TSLA；RSP則是對500家公司一視同仁，不管規模大小都投入相等資金，也就是每家公司佔比都是0.2%左右（相對於在VOO、SPY、IVV、SPLG中最大的NVDA就佔了差不多6.5%）。所以在龍頭股領漲的時候，VOO、SPY、IVV、SPLG會漲得比RSP更明顯，而相反的在資金輪動到其他股票的時候，RSP就會漲得比較多，由於近年股市都是由大型科技公司主導，VOO、SPY、IVV、SPLG的十年年化報酬率差不多是13.5%，而RSP是10.45%。所以現在買大盤指數ETF的人大部分都是買“依市值加權”的前面四檔。<br><br>那麼這四檔ETF有什麼不同呢？基本上在我們最注重的報酬率方面區別很小（十年年化報酬率13.5%-13.61%），如果要說有什麼不同的話，大概是：<br><br>SPY：流動性最高，成交量大，買賣價差小，但老實說SPY、VOO、IVV的流通性和成交量雖然沒辦法跟SPY比，但在所有ETF中也算很高的了，所以對散戶來說沒有什麼區別，只有SPLG比較差一點而已。做選擇權的投資人好像會比較喜歡SPY，因為流通性對選擇權來說更重要。不過SPY的管理費是最貴的（0.0945%）。<br><br>SPLG：管理費最低（0.02%），單價也低（現在是$74左右，不像其他幾檔都在$500以上），雖然現在都可以用小於一單位的零股買賣但零股只能現價買，無法定價交易，所以喜歡整數買賣資金又不大的投資人會偏好SPLG。<br><br>VOO、IVV：這兩檔我實在說不出有什麼區別，不管報酬率、資產規模、管理費（都是0.03%）都差不多。如果想買規模大一點的ETF又不想付高管理費的話可以在這兩檔中二選一。我自己是用VOO但好像僅僅是因為一開始選的是VOO後來就一直繼續買它了，我覺得買IVV對我來說也沒什麼不同。<br><br>VTI也是投資美國整體市場，但它的覆蓋範圍超過標普的500家，是大約有3500成分股的“全市場”ETF，其中中小型企業佔20%，十年年化報酬率差不多12.9%，不過在2016和2020年VTI是打敗標普500指數ETF的。<br><br>如果不想把投資侷限在美股，可以考慮VT和VXUS，兩者的區別是前者是全球包括美國，而後者是針對“美國以外”的市場，也就是說，如果已經持有美股大盤ETF了，買VT就會在美國的部分重複（美股因為市場大，所以佔VT的60%以上）。如果你想美國和世界股票通吃分散風險的話，可以只買VT就好，或者買一檔美股大盤ETF加上VXUS。在過去十年，由於美股領先全球市場，VT的年化報酬率是10%，VXUS是6.3%。不過今年世界股票相對於美股表現更亮眼，到目前的報酬率是VT10.66%，VXUS17.27%，都遠超過美國大盤的6.83%，所以說我們不能只拿過去的歷史來預測未來。姐姐自己現在用的組合是VOO + VXUS。（我有時候會加上小市值股VTWO和SCZ來補足大盤ETF沒有覆蓋到的部分，不過那就不在今天的介紹範圍內了。）<br><br>另外附帶說明道瓊和那斯達克指數也有自己的ETF：DIA和QQQ，不過道瓊指數因為只有30檔，不適合用來代表大盤，而QQQ由於那斯達克以科技公司為主，性質更接近成長股而不是大盤股，所以之後會在放在成長股那一組來介紹。
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: （空）
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-07 05:58
+    Note: （空）
+
+快把握時間到 Instagram 觀看 Appediet TC 的這則限時動態！
+
+    名稱: 快把握時間到 Instagram 觀看 Appediet TC 的這則限時動態！
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.instagram.com/stories/appediet.t/3648132194586635374)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-07 05:15
+    Note: （空）
+
+Chinese Firms Linked to Silk Typhoon Filed 15+ Patents for Cyber Espionage Tools
+
+    名稱: Chinese Firms Linked to Silk Typhoon Filed 15+ Patents for Cyber Espionage Tools
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://thehackernews.com/2025/07/chinese-firms-linked-to-silk-typhoon.html?fbclid=IwY2xjawL_7G1leHRuA2FlbQIxMQABHiZ6f84gFTg_lWH3WzI3cGvZHJcxwy55kkWzDH1kIoxHe1lPwYkAupo6Qj4m_aem_ZCZXS5LeTnE86iBNhm4JaQ)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-06 16:07
+    Note: （空）
+
+Threads 上的 Muki Wu / 沐奇（@mukiwu）.  你也想免費使用 Claude Code 嗎？<br><br>對！短短兩天我又變心了，Gemini CLI 掰掰 T口T。但我還是很愛 Gemini-2.5-Pro Model ❤️<br><br>所以這篇文章就是要跟大家分享，如果免費使用 Claude Code 和免費 Gemini-2.5-Pro 幫你打造一個舒適的開發環境。<br><br>如果你習慣了我之前推薦的 BMad-Method Agent，也可以在 Claude Code 安裝繼續使用，但在 Claude Code 的呼叫方式就變成反斜線 "/"，而不是 "@"，其他的部分都一樣。<br><br>➡️ 用 Claude Code 連接多款免費 AI 模型，輕鬆切換不設限：<br>https://muki.tw/claude-code-router/<br><br>➡️ 使用 BMad-Method 幫你打造一支免費的 AI Agent 開發團隊：<br>https://muki.tw/bmad-method-ai-agent/
+
+    名稱: Threads 上的 Muki Wu / 沐奇（@mukiwu）.  你也想免費使用 Claude Code 嗎？<br><br>對！短短兩天我又變心了，Gemini CLI 掰掰 T口T。但我還是很愛 Gemini-2.5-Pro Model ❤️<br><br>所以這篇文章就是要跟大家分享，如果免費使用 Claude Code 和免費 Gemini-2.5-Pro 幫你打造一個舒適的開發環境。<br><br>如果你習慣了我之前推薦的 BMad-Method Agent，也可以在 Claude Code 安裝繼續使用，但在 Claude Code 的呼叫方式就變成反斜線 "/"，而不是 "@"，其他的部分都一樣。<br><br>➡️ 用 Claude Code 連接多款免費 AI 模型，輕鬆切換不設限：<br>https://muki.tw/claude-code-router/<br><br>➡️ 使用 BMad-Method 幫你打造一支免費的 AI Agent 開發團隊：<br>https://muki.tw/bmad-method-ai-agent/
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.threads.com/@mukiwu/post/DM_xTnWzFhC?xmt=AQF0dEHVO9THH8tst5xtveshkHlP2hFXO2CbqrINuIRiTw)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-06 16:06
+    Note: （空）
+
+Threads 上的 GitMind（@gitmindtw）. 🤯 最近大家都在聊 AI Agent<br>其實光靠 YouTube，就能跟上最新進度！<br>這幾個頻道真的寶藏級：<br><br>🔆 李沐（亞馬遜首席科學家）<br>Mu Li 頻道《動手學 AI Agent》系列🔥 <br>工業級任務調度 + 即時決策完整實作，配套 Notebook 全開源<br><br>🔆 李宏毅（台大教授）<br>Hung-yi Lee 頻道《AI Agent 系統設計 2025》💡 <br>用復仇者聯盟講 Agent 協作，還能實戰旅行規劃 Agent<br><br>🔆 Andrej Karpathy（OpenAI 創始成員）<br>Andrej Karpathy 頻道《From LLMs to Agents》⚡ <br>4 小時復現 AutoGPT 架構，還有硬核直播 Debug<br><br>🔆 Hugging Face 官方<br>HuggingFace 頻道《10 小時精通 Agent 框架》<br>📊 免費 GPU 部署 + 多 Agent 實戰案例<br><br>🔆 吳恩達（Andrew Ng）<br>DeepLearningAI 頻道《AI Agent 專項課》<br>📈 從 Excel 演算到 Multi-Agent 博弈系統，全都免費看
+
+    名稱: Threads 上的 GitMind（@gitmindtw）. 🤯 最近大家都在聊 AI Agent<br>其實光靠 YouTube，就能跟上最新進度！<br>這幾個頻道真的寶藏級：<br><br>🔆 李沐（亞馬遜首席科學家）<br>Mu Li 頻道《動手學 AI Agent》系列🔥 <br>工業級任務調度 + 即時決策完整實作，配套 Notebook 全開源<br><br>🔆 李宏毅（台大教授）<br>Hung-yi Lee 頻道《AI Agent 系統設計 2025》💡 <br>用復仇者聯盟講 Agent 協作，還能實戰旅行規劃 Agent<br><br>🔆 Andrej Karpathy（OpenAI 創始成員）<br>Andrej Karpathy 頻道《From LLMs to Agents》⚡ <br>4 小時復現 AutoGPT 架構，還有硬核直播 Debug<br><br>🔆 Hugging Face 官方<br>HuggingFace 頻道《10 小時精通 Agent 框架》<br>📊 免費 GPU 部署 + 多 Agent 實戰案例<br><br>🔆 吳恩達（Andrew Ng）<br>DeepLearningAI 頻道《AI Agent 專項課》<br>📈 從 Excel 演算到 Multi-Agent 博弈系統，全都免費看
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.threads.com/@gitmindtw/post/DM_0iENJ9io?xmt=AQF0iUfDJ4G4zt2rCXzCxuWPxDSWDp14TIULrLiaeBCdKA)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-06 15:43
+    Note: （空）
+
+透過 Raycast + Ollama 用快捷鍵免費翻譯任何內容｜ExplainThis
+
+    名稱: 透過 Raycast + Ollama 用快捷鍵免費翻譯任何內容｜ExplainThis
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.explainthis.io/zh-hant/ai/free-translation-tool?fbclid=IwY2xjawL_t8FleHRuA2FlbQIxMABicmlkETFQRElqeFZkVm5GRVNESHlXAR67PFG1SPCstGYfhhSGkpbklWFEqqp35OJe94WyDBXOFPQ2GEHNeYEI_KUH_w_aem_7n2zJOlH4RwsnJuCB_h7nQ)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-06 12:23
+    Note: （空）
+
+大叔知道有很多朋友多會主動私訊我有興趣學習期權交易，所以大叔認為入門書籍... - 大叔美股筆記 Uncle Investment Note | Facebook
+
+    名稱: 大叔知道有很多朋友多會主動私訊我有興趣學習期權交易，所以大叔認為入門書籍... - 大叔美股筆記 Uncle Investment Note | Facebook
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.facebook.com/Unclestocknotess/posts/714183578107596?rdid=p7BnpiLjxKI9CS0Y)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-06 11:18
+    Note: （空）
+
+JanetC (@chiawenc@g0v.social) - g0v.social
+
+    名稱: JanetC (@chiawenc@g0v.social) - g0v.social
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://g0v.social/@chiawenc)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-05 16:01
+    Note: （空）
+
+https://www.facebook.com/share/15ZUbWUiJd/?mibextid=wwXIfr
+
+    名稱: https://www.facebook.com/share/15ZUbWUiJd/?mibextid=wwXIfr
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: （空）
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-05 07:32
+    Note: （空）
+
+https://www.facebook.com/share/p/16vPY49Uef/?mibextid=wwXIfr
+
+    名稱: https://www.facebook.com/share/p/16vPY49Uef/?mibextid=wwXIfr
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: （空）
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-04 22:09
+    Note: （空）
+
+影片 | Facebook<br>Perplexity Finance 剛升級了！股票、加密貨幣、ETF、指數和商品的資產頁面。還有觀察清單 + 價格警報！你的一站式投資神器來了！
+
+    名稱: 影片 | Facebook<br>Perplexity Finance 剛升級了！股票、加密貨幣、ETF、指數和商品的資產頁面。還有觀察清單 + 價格警報！你的一站式投資神器來了！
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.facebook.com/watch/?v=1097655488380170&rdid=nw7bFkIC5zsCHhEo)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-04 16:46
+    Note: （空）
+
+影片 | Facebook
+
+    名稱: 影片 | Facebook
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.facebook.com/watch/?v=1097655488380170&rdid=nw7bFkIC5zsCHhEo)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-04 16:46
+    Note: （空）
+
+Threads 上的 Sliven（@sliven0722）. Google 開源 LangExtract：一個從非結構化文字中抽取結構化資訊的 Python 工具<br><br>Google 最近開源了一套叫做 LangExtract 的 Python 函式庫，專門用來從各種自然語言文本中抽出有結構的資訊，特別適合需要處理大量文字資料的工程師與研究人員使用。<br><br>這個工具的幾個亮點如下：<br>1.	長文本最佳化<br>針對新聞、報告、書籍這類超長內容，做了特別處理，大幅提升了召回率與處理效率。<br>2.	實體定位能力<br>每一個抽取出來的實體，都能精確對應到原始文字的具體位置，這對於後續驗證與人工審核非常實用。<br>3.	支援雲端與本地模型<br>可以搭配雲端大型語言模型（如 ChatGPT、Claude），也能使用自訓練的本地模型，依照資源彈性部署。<br>4.	少量範例即可應用<br>不需要大規模標註資料，只需少數幾個示例，就能快速適配特定領域，像是醫療、法律、財經等。<br>5.	自動產出 HTML 結果頁<br>抽取完的結果可以直接生成 HTML 介面，清楚呈現幾千甚至幾萬筆實… 更多
+
+    名稱: Threads 上的 Sliven（@sliven0722）. Google 開源 LangExtract：一個從非結構化文字中抽取結構化資訊的 Python 工具<br><br>Google 最近開源了一套叫做 LangExtract 的 Python 函式庫，專門用來從各種自然語言文本中抽出有結構的資訊，特別適合需要處理大量文字資料的工程師與研究人員使用。<br><br>這個工具的幾個亮點如下：<br>1.	長文本最佳化<br>針對新聞、報告、書籍這類超長內容，做了特別處理，大幅提升了召回率與處理效率。<br>2.	實體定位能力<br>每一個抽取出來的實體，都能精確對應到原始文字的具體位置，這對於後續驗證與人工審核非常實用。<br>3.	支援雲端與本地模型<br>可以搭配雲端大型語言模型（如 ChatGPT、Claude），也能使用自訓練的本地模型，依照資源彈性部署。<br>4.	少量範例即可應用<br>不需要大規模標註資料，只需少數幾個示例，就能快速適配特定領域，像是醫療、法律、財經等。<br>5.	自動產出 HTML 結果頁<br>抽取完的結果可以直接生成 HTML 介面，清楚呈現幾千甚至幾萬筆實… 更多
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.threads.com/@sliven0722/post/DM4qfQ8Kefv?xmt=AQF0PPEURcGh49wjrsdvFW_EzQ-1F8Pf0qKIKm2NVD6Wnw)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-03 18:52
+    Note: （空）
+
+PamPam City：打造專屬互動地圖的 AI 地圖製作平台 | 網路資源 | DeTools 工具死神
+
+    名稱: PamPam City：打造專屬互動地圖的 AI 地圖製作平台 | 網路資源 | DeTools 工具死神
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://tools.wingzero.tw/article/sn/3368?fbclid=IwQ0xDSwL8AjxleHRuA2FlbQIxMQABHpqunx0ZKpsGs8yqnsNjyOa0mbyhvYWkoKIjqAb5d1Wb2Fb-3nipIzGlAnDK_aem_iygIi9THGzaYbzO4CgP3Ag)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-03 16:51
+    Note: （空）
+
+Vibe 免費 OpenAI Whisper 語音轉文字工具介紹<br>Vibe 是一款免費且開源的語音轉文字工具，基於 OpenAI 的 Whisper 模型，支援中文介面及 YouTube 影片轉錄功能，適用於 Windows 和 Mac 系統。以下是該工具的主要特點和使用方法。<br>主要特點<br> * 完全免費：無需支付任何費用即可使用。<br> * 簡單操作：即使對電腦不熟悉的用戶也能輕鬆上手。<br> * 多種轉錄模式：<br> * 麥克風錄音<br> * 匯入音訊檔案<br> * YouTube 影片轉錄<br> * 多國語言支援：支援繁體中文、簡體中文等多種語言。<br> * 快速轉錄：針對 Nvidia、AMD 和 Intel GPU 進行優化，轉錄速度快。<br>使用步驟<br> 1. 下載與安裝：<br> * 前往 Vibe GitHub 專案 [https://github.com/thewh1teagle/vibe?tab=readme-ov-file] 下載安裝檔。<br> * 安裝後，工具會自動下載所需的 Whisper 模型。<br> 2. 選擇轉錄模式：<br> * 打開 Vibe，選擇三種模式之一：麥克風、匯入檔案或 YouTube 轉錄。<br> 3. 設定語言：<br> * 在匯入檔案轉錄時，選擇要轉錄的語言（如中文）。<br> * 可以在設定中調整介面語言為繁體中文或簡體中文。<br> 4. 開始轉錄：<br> * 選擇檔案後，點擊「Transcribe」開始轉錄。<br> * 轉錄完成後，會顯示所有轉錄文字，並提供複製、下載和列印功能。<br> 5. 保存格式：<br> * 支援多種檔案格式保存，包括 Text、HTML、PDF、DOCX、SRT、VTT 和 JSON。<br>附加功能<br> * 演講者辨識：可辨識不同講者的語音。<br> * AI 摘要：支援 Ollama 和 Claude 的摘要功能。<br> * 翻譯選項：可將其他語言翻譯成英文，但不支援翻譯成中文。<br>Vibe 是一個功能強大且易於使用的工具，適合需要語音轉文字功能的用戶，無論是學術研究、內容創作還是日常使用，都能提供便利的服務。<br>  https://www.facebook.com/share/1Aha886tw9/?mibextid=wwXIfr
+
+    名稱: Vibe 免費 OpenAI Whisper 語音轉文字工具介紹<br>Vibe 是一款免費且開源的語音轉文字工具，基於 OpenAI 的 Whisper 模型，支援中文介面及 YouTube 影片轉錄功能，適用於 Windows 和 Mac 系統。以下是該工具的主要特點和使用方法。<br>主要特點<br> * 完全免費：無需支付任何費用即可使用。<br> * 簡單操作：即使對電腦不熟悉的用戶也能輕鬆上手。<br> * 多種轉錄模式：<br> * 麥克風錄音<br> * 匯入音訊檔案<br> * YouTube 影片轉錄<br> * 多國語言支援：支援繁體中文、簡體中文等多種語言。<br> * 快速轉錄：針對 Nvidia、AMD 和 Intel GPU 進行優化，轉錄速度快。<br>使用步驟<br> 1. 下載與安裝：<br> * 前往 Vibe GitHub 專案 [https://github.com/thewh1teagle/vibe?tab=readme-ov-file] 下載安裝檔。<br> * 安裝後，工具會自動下載所需的 Whisper 模型。<br> 2. 選擇轉錄模式：<br> * 打開 Vibe，選擇三種模式之一：麥克風、匯入檔案或 YouTube 轉錄。<br> 3. 設定語言：<br> * 在匯入檔案轉錄時，選擇要轉錄的語言（如中文）。<br> * 可以在設定中調整介面語言為繁體中文或簡體中文。<br> 4. 開始轉錄：<br> * 選擇檔案後，點擊「Transcribe」開始轉錄。<br> * 轉錄完成後，會顯示所有轉錄文字，並提供複製、下載和列印功能。<br> 5. 保存格式：<br> * 支援多種檔案格式保存，包括 Text、HTML、PDF、DOCX、SRT、VTT 和 JSON。<br>附加功能<br> * 演講者辨識：可辨識不同講者的語音。<br> * AI 摘要：支援 Ollama 和 Claude 的摘要功能。<br> * 翻譯選項：可將其他語言翻譯成英文，但不支援翻譯成中文。<br>Vibe 是一個功能強大且易於使用的工具，適合需要語音轉文字功能的用戶，無論是學術研究、內容創作還是日常使用，都能提供便利的服務。<br>  https://www.facebook.com/share/1Aha886tw9/?mibextid=wwXIfr
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: （空）
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-03 16:39
+    Note: （空）
+
+李哈利Harry Lee 在 Instagram: "留言「API」获取3个免费AI API密钥网站 如果您仍在为AI API密钥付费，可能正在浪费资金。我曾每月花费大量预算支付API费用，就像明明厨房有水龙头却坚持购买瓶装水一样。 好消息是，现在您可以免费获取顶级AI模型的API密钥，无需信用卡或隐藏费用，注册即可使用。 以下是三个提供免费API密钥的网站： Google AI Studio 上周亲测：注册仅需5分钟，提供免费API密钥支持所有最新模型（包括Gemini 2.5）。如同获得Google AI游乐场的全通票，可自由测试和开发而无需担心费用。 OpenRouter AI模型自助餐：一次注册即可访问50+模型（DeepSeek R1/Kimi/Qwen 3等）。优势： ✓ 无需管理多个密钥 ✓ 快速简单设置 ✓ 方便横向对比不同模型 Groq 专注轻量高速模型，曾用它为朋友网站搭建聊天机器人。API响应迅速无延迟，提供DeepSeek/Llama/Mistral等即用型模型。 既然有免费选择，为何还要付费？就像电影已在线上免费播放却坚持购票入场。如果您仍在支付AI访问费用，不妨尝试这些替代方案——我的钱包因此得救，您的可能也会。 影片内容使用了AI生成技术 #API密钥 #DeepSeek #通义千问 #Groq平台 #OpenRouter #Gemini模型 #AI工具 #开发者资源 #AI新星计划"
+
+    名稱: 李哈利Harry Lee 在 Instagram: "留言「API」获取3个免费AI API密钥网站 如果您仍在为AI API密钥付费，可能正在浪费资金。我曾每月花费大量预算支付API费用，就像明明厨房有水龙头却坚持购买瓶装水一样。 好消息是，现在您可以免费获取顶级AI模型的API密钥，无需信用卡或隐藏费用，注册即可使用。 以下是三个提供免费API密钥的网站： Google AI Studio 上周亲测：注册仅需5分钟，提供免费API密钥支持所有最新模型（包括Gemini 2.5）。如同获得Google AI游乐场的全通票，可自由测试和开发而无需担心费用。 OpenRouter AI模型自助餐：一次注册即可访问50+模型（DeepSeek R1/Kimi/Qwen 3等）。优势： ✓ 无需管理多个密钥 ✓ 快速简单设置 ✓ 方便横向对比不同模型 Groq 专注轻量高速模型，曾用它为朋友网站搭建聊天机器人。API响应迅速无延迟，提供DeepSeek/Llama/Mistral等即用型模型。 既然有免费选择，为何还要付费？就像电影已在线上免费播放却坚持购票入场。如果您仍在支付AI访问费用，不妨尝试这些替代方案——我的钱包因此得救，您的可能也会。 影片内容使用了AI生成技术 #API密钥 #DeepSeek #通义千问 #Groq平台 #OpenRouter #Gemini模型 #AI工具 #开发者资源 #AI新星计划"
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.instagram.com/reel/DMwgxX9B8f-/?igsh=dzN5OXgzZ3VxOHln)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-03 13:34
+    Note: （空）
+
+Generative AI 技術交流中心 | ▋ Claude Code Best Practice 最佳實踐 | Facebook
+
+    名稱: Generative AI 技術交流中心 | ▋ Claude Code Best Practice 最佳實踐 | Facebook
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.facebook.com/groups/gaitech/permalink/1450270152823862/?rdid=x1uD3zQ5CxU758h9&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fp%2F1JjXAdvJT8%2F)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-03 11:06
+    Note: （空）
+
+你可能不曾使用過的 10 個 Windows 實用工具，這是它們的作用和開啟方法
+
+    名稱: 你可能不曾使用過的 10 個 Windows 實用工具，這是它們的作用和開啟方法
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.koc.com.tw/archives/607345)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-02 14:09
+    Note: （空）
+
+https://www.facebook.com/share/v/1AW9DdM6eG/?mibextid=wwXIfr
+
+    名稱: https://www.facebook.com/share/v/1AW9DdM6eG/?mibextid=wwXIfr
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: （空）
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-02 01:34
+    Note: （空）
+
+黑客Jack 在 Instagram: "#黑客最爱的搜索引擎，你使用过吗？|||#黑客最爱的搜索引擎，你使用过吗？ �#黑客 ��#网络安全 � �#科普 � �#互联网 �"
+
+    名稱: 黑客Jack 在 Instagram: "#黑客最爱的搜索引擎，你使用过吗？|||#黑客最爱的搜索引擎，你使用过吗？ �#黑客 ��#网络安全 � �#科普 � �#互联网 �"
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.instagram.com/reel/DLmZ-e1Nc_7/?igsh=M3AzdGpybzNmM25o)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-01 18:35
+    Note: （空）
+
+黑客Jack 在 Instagram: "自学黑客技术，看这5本书就够了|||�#黑客[话题]#� �#黑客技术[话题]#� �#网络安全[话题]#� �#程序员[话题]#� �#黑客入门[话题]"
+
+    名稱: 黑客Jack 在 Instagram: "自学黑客技术，看这5本书就够了|||�#黑客[话题]#� �#黑客技术[话题]#� �#网络安全[话题]#� �#程序员[话题]#� �#黑客入门[话题]"
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.instagram.com/reel/DMnIBCtNLCL/?igsh=MXZnc3lhazV6dGl6Nw==)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-01 18:28
+    Note: （空）
+
+本本身｜牛角經絡調理 • Meridians massage 在 Instagram: "꒰ 圓肩的可能原因之一：筋膜💡꒱ 原影片創作者👉 @drjoedamiani 此為使用IG 「混搭」功能，後製上字幕分享 ➜ 原創作者沒有開放此影片的音訊🔊 所以放背景音樂替代 - ꒰ 筋膜 ꒱ 是人體內的一種由「排列緊密的膠原纖維」 🧶 所組成的 「緻密結締組織」 具有彈性、由淺而深的遍及全身 覆蓋於肌肉、神經、血管、內臟、頭及腦🧠的周圍 像是一套身體的全身緊身衣 拉住任意一個地方，就有可能造成遠處一區的張力改變 體現了「牽一髮動全身」的整體性！ 這層網狀結構，如果失去滑動能力 彼此之間糾纏在一起，或是與肌肉黏在一起🕸️ 就可能產生疼痛、僵硬、活動受限等不適感 ꒰ 平常可以怎麼簡單保養筋膜呢！🧶 ꒱ ➊ 多喝水💧 筋膜的主要成分之一是水(其實不只筋膜整個身體都是XD) 身體長期處於水分不足的情況 筋膜就無法維持健康彈性狀態🍮 整個人容易感覺，像是被失去彈性的緊身衣緊緊纏住😵‍💫 調理完會鼓勵大家多喝水，也是這個原因💧 ➋ 適當活動、伸展🙆‍♀️ (保持活動也是維持彈性的重要關鍵) ➌ 補充膠原蛋白與水果 （促進身體修復與抗氧化) ➍ 定期按摩身體💆‍♀️ 可以自己使用滾筒放鬆、或是使用手邊順手的工具 促進氣血循環，幫助身體每處的筋膜肌肉能得到營養🍚 ﹋ ﾉ 牛 角 經 絡 調 理 ﾉ 📍高雄市仁武區永新二街 (榮總騎車約5分鐘) ฺ 一人工作室，採完全預約制 ฺ 官方𝐿𝐼𝑁𝐸 : @795cudxh ( 𝐼𝐺訊息容易被吃掉𝑄𝑄) ﹋ #經絡調理 #經絡養生 #經絡按摩 #高雄按摩 #高雄經絡調理 #全身調理 #仁武按摩 #全身放鬆 #肩頸放鬆 #kaohsiungmassage"
+
+    名稱: 本本身｜牛角經絡調理 • Meridians massage 在 Instagram: "꒰ 圓肩的可能原因之一：筋膜💡꒱ 原影片創作者👉 @drjoedamiani 此為使用IG 「混搭」功能，後製上字幕分享 ➜ 原創作者沒有開放此影片的音訊🔊 所以放背景音樂替代 - ꒰ 筋膜 ꒱ 是人體內的一種由「排列緊密的膠原纖維」 🧶 所組成的 「緻密結締組織」 具有彈性、由淺而深的遍及全身 覆蓋於肌肉、神經、血管、內臟、頭及腦🧠的周圍 像是一套身體的全身緊身衣 拉住任意一個地方，就有可能造成遠處一區的張力改變 體現了「牽一髮動全身」的整體性！ 這層網狀結構，如果失去滑動能力 彼此之間糾纏在一起，或是與肌肉黏在一起🕸️ 就可能產生疼痛、僵硬、活動受限等不適感 ꒰ 平常可以怎麼簡單保養筋膜呢！🧶 ꒱ ➊ 多喝水💧 筋膜的主要成分之一是水(其實不只筋膜整個身體都是XD) 身體長期處於水分不足的情況 筋膜就無法維持健康彈性狀態🍮 整個人容易感覺，像是被失去彈性的緊身衣緊緊纏住😵‍💫 調理完會鼓勵大家多喝水，也是這個原因💧 ➋ 適當活動、伸展🙆‍♀️ (保持活動也是維持彈性的重要關鍵) ➌ 補充膠原蛋白與水果 （促進身體修復與抗氧化) ➍ 定期按摩身體💆‍♀️ 可以自己使用滾筒放鬆、或是使用手邊順手的工具 促進氣血循環，幫助身體每處的筋膜肌肉能得到營養🍚 ﹋ ﾉ 牛 角 經 絡 調 理 ﾉ 📍高雄市仁武區永新二街 (榮總騎車約5分鐘) ฺ 一人工作室，採完全預約制 ฺ 官方𝐿𝐼𝑁𝐸 : @795cudxh ( 𝐼𝐺訊息容易被吃掉𝑄𝑄) ﹋ #經絡調理 #經絡養生 #經絡按摩 #高雄按摩 #高雄經絡調理 #全身調理 #仁武按摩 #全身放鬆 #肩頸放鬆 #kaohsiungmassage"
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.instagram.com/reel/DMwtjZpzGi4/?igsh=MTFmMnhvZ3NmZHlvbw==)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-01 15:44
+    Note: （空）
+
+(66) 引導Model的人像攝影3大秘訣，拍出自然清新好照片！相機手機都適用！比新竹17公里海岸線的風更狂的引導方式！全台獨家，客家話引導拍照教學。#人像攝影 #拍照技巧 #拍照教學 - YouTube
+
+    名稱: (66) 引導Model的人像攝影3大秘訣，拍出自然清新好照片！相機手機都適用！比新竹17公里海岸線的風更狂的引導方式！全台獨家，客家話引導拍照教學。#人像攝影 #拍照技巧 #拍照教學 - YouTube
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.youtube.com/watch?v=YFwhg1iXA3w)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-01 12:56
+    Note: （空）
+
+(66) 台北一日8個輕鬆到達又好拍的免費景點，攝影師帶你去！#環南舊公寓 #南機場 #青田街 #波士頓理髮廳 #永康公園 #八德停車場 By Tamron 35-150mm F2-2.8 Di III VXD - YouTube
+
+    名稱: (66) 台北一日8個輕鬆到達又好拍的免費景點，攝影師帶你去！#環南舊公寓 #南機場 #青田街 #波士頓理髮廳 #永康公園 #八德停車場 By Tamron 35-150mm F2-2.8 Di III VXD - YouTube
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.youtube.com/watch?v=wibivNE7fTU)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-01 12:56
+    Note: （空）
+
+🚀 Claude Code 讓工作效率革命性提升：1 個月後提煉出的 7... - Tenten - Product Agency | Facebook
+
+    名稱: 🚀 Claude Code 讓工作效率革命性提升：1 個月後提煉出的 7... - Tenten - Product Agency | Facebook
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.facebook.com/tentencreative/posts/1213343657497041?rdid=uvGmdiwJ5eW7rUmo)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-08-01 11:29
+    Note: （空）
+
+https://www.facebook.com/share/p/16vNFXHih9/?mibextid=wwXIfr
+
+    名稱: https://www.facebook.com/share/p/16vNFXHih9/?mibextid=wwXIfr
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: （空）
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-07-31 23:36
+    Note: （空）
+
+劉依語 - Claude Code 使用心得： 1. 在 CLAUDE.md 加了「請務必測試。」之後，順！ 2.... | Facebook
+
+    名稱: 劉依語 - Claude Code 使用心得： 1. 在 CLAUDE.md 加了「請務必測試。」之後，順！ 2.... | Facebook
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.facebook.com/mosky.liu/posts/10231112781344720?rdid=ER3IE69pqGELOHIG)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-07-31 11:35
+    Note: （空）
+
+Lucid.app：方便製作 Mind map、FlowChart、ER 圖等資訊圖表的線上協作工具，結合 AI 並能把設計好的 ER 圖匯出成資料庫檔案
+
+    名稱: Lucid.app：方便製作 Mind map、FlowChart、ER 圖等資訊圖表的線上協作工具，結合 AI 並能把設計好的 ER 圖匯出成資料庫檔案
+    狀態: Done
+    預計行動: 備查
+    Create Task: （空）
+    URL: [連結](https://tools.wingzero.tw/article/sn/1124?fbclid=IwY2xjawL1bBRleHRuA2FlbQIxMQABHkDI3d-hzmcd9N8V8zqU07qgyLd90RtEi8xUlxfFI03CO5oeJm64aqEpUaIm_aem_i4ZXQOM6aGq2az7MCjoVdw)
+    已建立Task: Lucid.app：方便製作 Mind map、FlowChart、ER 圖等資訊圖表的線上協作工具，結合 AI 並能把設計好的 ER 圖匯出成資料庫檔案   (https://www.notion.so/Lucid-app-Mind-map-FlowChart-ER-AI-ER-24545cd11e8580ad878eec898ebed5f0?pvs=21)
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-07-29 16:57
+    Note: （空）
+
+獨創科技「鍍膜」功效<br>清潔後在表面形成一層保護膜<br>像打蠟一樣，讓水垢、皂垢難附著，洗一次撐很久<br>還有植萃配方，淡淡清香、還能屈蟲、溫和不傷手
+
+    名稱: 獨創科技「鍍膜」功效<br>清潔後在表面形成一層保護膜<br>像打蠟一樣，讓水垢、皂垢難附著，洗一次撐很久<br>還有植萃配方，淡淡清香、還能屈蟲、溫和不傷手
+    狀態: Done
+    預計行動: 備查
+    Create Task: （空）
+    URL: [連結](https://www.facebook.com/cheapAOE/videos/1274313534310207/?rdid=a5kllqhtVJi5ZAjj)
+    已建立Task: 獨創科技「鍍膜」功效<br>清潔後在表面形成一層保護膜<br>像打蠟一樣，讓水垢、皂垢難附著，洗一次撐很久<br>還有植萃配方，淡淡清香、還能屈蟲、溫和不傷手  (https://www.notion.so/24545cd11e8580639680c4659cc60943?pvs=21)
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-07-29 13:26
+    Note: （空）
+
+AI 工具與網站設計開發研究社𓂀寫扣 x 教學 x 講幹話 | # uMap：以 OpenStreetMap 為基礎的免費開源地圖工具 | Facebook
+
+    名稱: AI 工具與網站設計開發研究社𓂀寫扣 x 教學 x 講幹話 | # uMap：以 OpenStreetMap 為基礎的免費開源地圖工具 | Facebook
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.facebook.com/groups/366863238003058/permalink/1496079515081419/?rdid=hvruVAzaWv2Zs4z3&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fp%2F16bmEri1K3%2F)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-07-29 12:51
+    Note: （空）
+
+艾德的單板滑雪課程 - 艾德可樂 EDOCOLALA - Medium
+
+    名稱: 艾德的單板滑雪課程 - 艾德可樂 EDOCOLALA - Medium
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://edocolala.medium.com/%E8%89%BE%E5%BE%B7%E7%9A%84%E5%96%AE%E6%9D%BF%E6%BB%91%E9%9B%AA%E8%AA%B2%E7%A8%8B-9251a9b8ccb2)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-07-29 12:13
+    Note: （空）
+
+斯特AI 在 Instagram: "#干货分享#自媒体工具#自媒体#ai#工具箱"
+
+    名稱: 斯特AI 在 Instagram: "#干货分享#自媒体工具#自媒体#ai#工具箱"
+    狀態: Not started
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.instagram.com/reel/DLL7UHCJ0ig/?igsh=bnM1Nzh0aWw4cmI2)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-07-29 12:06
+    Note: （空）
+
+Eason Chen 在 Instagram: "【樂仔Levi的作品】賭上我一輩子的 髮型教程！# 男士造型 #男士发型 #微分碎蓋 #素顏"
+
+    名稱: Eason Chen 在 Instagram: "【樂仔Levi的作品】賭上我一輩子的 髮型教程！# 男士造型 #男士发型 #微分碎蓋 #素顏"
+    狀態: Done
+    預計行動: 備查, 短影音觀看
+    Create Task: （空）
+    URL: [連結](https://www.instagram.com/reel/DMC4ZT9TMhI/?igsh=MW9iNTNkd21rMXg3cQ==)
+    已建立Task: Eason Chen 在 Instagram: "【樂仔Levi的作品】賭上我一輩子的 髮型教程！# 男士造型 #男士发型 #微分碎蓋 #素顏"  (https://www.notion.so/Eason-Chen-Instagram-Levi-24445cd11e8580f18ddaf025bde881f5?pvs=21)
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-07-29 12:04
+    Note: （空）
+
+Eason Chen 在 Instagram: "【乐仔Levi的作品】男生化妆真的巨简单，背着兄弟偷偷卷就完事了！ #髮型 #素顏霜 #微分碎蓋 #"
+
+    名稱: Eason Chen 在 Instagram: "【乐仔Levi的作品】男生化妆真的巨简单，背着兄弟偷偷卷就完事了！ #髮型 #素顏霜 #微分碎蓋 #"
+    狀態: Done
+    預計行動: 備查, 短影音觀看
+    Create Task: （空）
+    URL: [連結](https://www.instagram.com/reel/DMRKZxyztc6/?igsh=MXVrcXVuM3I4bzdheQ==)
+    已建立Task: Eason Chen 在 Instagram: "【乐仔Levi的作品】男生化妆真的巨简单，背着兄弟偷偷卷就完事了！ #髮型 #素顏霜 #微分碎蓋 #"  (https://www.notion.so/Eason-Chen-Instagram-Levi-24445cd11e8580f9901fc8f8441a84f4?pvs=21)
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-07-28 18:43
+    Note: （空）
+
+LosslessCut 旨在成為跨平台 FFmpeg GUI 的終極選擇，專門用於對影片、音訊、字幕和其他相關媒體檔案進行極速且無損的操作。<br>
+
+    名稱: LosslessCut 旨在成為跨平台 FFmpeg GUI 的終極選擇，專門用於對影片、音訊、字幕和其他相關媒體檔案進行極速且無損的操作。<br>
+    狀態: Done
+    預計行動: 備查
+    Create Task: （空）
+    URL: [連結](https://www.facebook.com/share/p/1FzacWFFfs/?mibextid=wwXIfr)
+    已建立Task: LosslessCut 旨在成為跨平台 FFmpeg GUI 的終極選擇，專門用於對影片、音訊、字幕和其他相關媒體檔案進行極速且無損的操作。<br>  (https://www.notion.so/LosslessCut-FFmpeg-GUI-24545cd11e8580198500d5f5edf402a5?pvs=21)
+    紀錄原因: LosslessCut 旨在成為跨平台 FFmpeg GUI 的終極選擇，專門用於對影片、音訊、字幕和其他相關媒體檔案進行極速且無損的操作。其主要功能是無損地裁剪和剪切影片及音訊檔案，這對於透過粗略剪輯從攝影機、GoPro、無人機等裝置拍攝的大型影片檔案來節省空間非常有用。它讓你能快速提取影片中的精華部分，並丟棄數GB的數據，無需進行緩慢的重新編碼，從而保留品質。或者，你可以在不需要編碼的情況下，為影片增加音樂或字幕軌。由於它幾乎直接複製數據，因此一切都非常迅速，這得益於強大的 FFmpeg，它完成了所有繁重的工作。
+    標籤: （空）
+    建立時間: 2025-07-28 17:55
+    Note: （空）
+
+DeepWiki | AI documentation you can talk to, for every repo
+
+    名稱: DeepWiki | AI documentation you can talk to, for every repo
+    狀態: Done
+    預計行動: 備查
+    Create Task: （空）
+    URL: [連結](https://deepwiki.com/)
+    已建立Task: DeepWiki | AI documentation you can talk to, for every repo  (https://www.notion.so/DeepWiki-AI-documentation-you-can-talk-to-for-every-repo-23e45cd11e85800ebd99f62250495076?pvs=21)
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-07-28 17:21
+    Note: （空）
+
+用AI來提高研究效率，已經是我每天的例行公事。不過那麼多AI工具，到底每個軟體的特色是什麼，以及要怎麼交互使用，才能發揮最大價值呢
+
+    名稱: 用AI來提高研究效率，已經是我每天的例行公事。不過那麼多AI工具，到底每個軟體的特色是什麼，以及要怎麼交互使用，才能發揮最大價值呢
+    狀態: Done
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.facebook.com/share/p/12M4yoBRdSt/?mibextid=wwXIfr)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-07-28 01:47
+    Note: （空）
+
+Bitly | bit.ly/2WsjFeq
+
+    名稱: Bitly | bit.ly/2WsjFeq
+    狀態: Done
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://bit.ly/2WsjFeq?fbclid=IwQ0xDSwLyoFtleHRuA2FlbQIxMQABHpHVBsDYuD3Ly4vUa4CQDj19Aot9lR6ZnvrU0HI-ZSVYLi3aYj4eTOJIX09l_aem_l8X5ksVSac6Hg7Mkw15JOA)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-07-27 14:03
+    Note: （空）
+
+博客來電子書櫃
+
+    名稱: 博客來電子書櫃
+    狀態: Done
+    預計行動: 書籍閱讀
+    Create Task: （空）
+    URL: （空）
+    已建立Task: 博客來電子書櫃 - Fireman 理財 (https://www.notion.so/Fireman-23e45cd11e8580888866e3b9b3ad7685?pvs=21)
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-07-27 13:00
+    Note: https://viewer-ebook.books.com.tw/viewer/index.html?readlist=all
+
+1、同事打探你工資 嘴笨：老老實實說具體數字... - The Rich Mindset 富人思維 | Facebook
+
+    名稱: 1、同事打探你工資 嘴笨：老老實實說具體數字... - The Rich Mindset 富人思維 | Facebook
+    狀態: Done
+    預計行動: 短文閱讀
+    Create Task: （空）
+    URL: [連結](https://www.facebook.com/permalink.php?story_fbid=711304051740488&id=100085826991003&rdid=d0qzZsdE8EPbk5Gm)
+    已建立Task: 1、同事打探你工資 嘴笨：老老實實說具體數字... - The Rich Mindset 富人思維 | Facebook  (https://www.notion.so/1-The-Rich-Mindset-Facebook-23e45cd11e85809987d8dbf00685eb7e?pvs=21)
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-07-27 13:00
+    Note: 1、同事打探你工資 嘴笨：老老實實說具體數字... - The Rich Mindset 富人思維 | Facebook<br>
+
+新股介紹：Figma 美股代號FIG ，下週掛牌上市，營收高速成長，AI布局成未來關鍵
+
+    名稱: 新股介紹：Figma 美股代號FIG ，下週掛牌上市，營收高速成長，AI布局成未來關鍵
+    狀態: Done
+    預計行動: 備查
+    Create Task: （空）
+    URL: （空）
+    已建立Task: 新股介紹：Figma 美股代號FIG ，下週掛牌上市，營收高速成長，AI布局成未來關鍵  (https://www.notion.so/Figma-FIG-AI-23e45cd11e858093bfabcdf11c9f7a38?pvs=21)
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-07-27 13:00
+    Note: （空）
+
+台積電財報解讀：四大關鍵訊號
+
+    名稱: 台積電財報解讀：四大關鍵訊號
+    狀態: Done
+    預計行動: 備查, 短文閱讀
+    Create Task: （空）
+    URL: （空）
+    已建立Task: 台積電財報解讀：四大關鍵訊號  (https://www.notion.so/23e45cd11e85806291abf89e14840504?pvs=21)
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-07-27 13:00
+    Note: （空）
+
+(下篇)投資小白的交易理財課程:  投資新手必學的停損設定術
+
+    名稱: (下篇)投資小白的交易理財課程:  投資新手必學的停損設定術
+    狀態: Done
+    預計行動: 備查, 短文閱讀
+    Create Task: （空）
+    URL: （空）
+    已建立Task: (下篇)投資小白的交易理財課程:  投資新手必學的停損設定術  (https://www.notion.so/23e45cd11e85802e9defc3e369ae1440?pvs=21)
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-07-27 13:00
+    Note: （空）
+
+https://www.facebook.com/share/p/19Bq9bX5Nn/?mibextid=wwXIfr
+
+    名稱: https://www.facebook.com/share/p/19Bq9bX5Nn/?mibextid=wwXIfr
+    狀態: Done
+    預計行動: （空）
+    Create Task: （空）
+    URL: （空）
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-07-26 13:29
+    Note: （空）
+
+為什麼別人問AI都比我厲害？Anthropic公開5句讓AI聽懂、答對的實用問法－商周頭條｜商周
+
+    名稱: 為什麼別人問AI都比我厲害？Anthropic公開5句讓AI聽懂、答對的實用問法－商周頭條｜商周
+    狀態: Done
+    預計行動: 短文閱讀
+    Create Task: （空）
+    URL: [連結](https://www.businessweekly.com.tw/careers/blog/3019012?utm_source=facebook.com&utm_medium=social&utm_content=bw&utm_campaign=content)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-07-25 19:16
+    Note: （空）
+
+邏輯進場 × 嚴謹調節 × 長線現金流<br>掌握 ETF 佈局與調節點，打造專屬你的操作系統。<br>-<br>📲《穹蒼美股 App》一套幫你建立投資邏輯的行動工具<br>📥 手機下載連結：https://www.cmoney.tw/r/256/51ix3a<br>-<br>🎯 限時優惠方案開放中：<br>🔸 台灣地區 ➤ https://cmy.tw/00Ajxu<br>🔸 海外地區 ➤ 請先下載 App：https://www.cmoney.tw/r/256/51ix3a<br>完成註冊後，於 App 內依照流程開通專業版功能。 <br>
+
+    名稱: 邏輯進場 × 嚴謹調節 × 長線現金流<br>掌握 ETF 佈局與調節點，打造專屬你的操作系統。<br>-<br>📲《穹蒼美股 App》一套幫你建立投資邏輯的行動工具<br>📥 手機下載連結：https://www.cmoney.tw/r/256/51ix3a<br>-<br>🎯 限時優惠方案開放中：<br>🔸 台灣地區 ➤ https://cmy.tw/00Ajxu<br>🔸 海外地區 ➤ 請先下載 App：https://www.cmoney.tw/r/256/51ix3a<br>完成註冊後，於 App 內依照流程開通專業版功能。 <br>
+    狀態: Done
+    預計行動: 備查
+    Create Task: （空）
+    URL: [連結](https://www.youtube.com/watch?v=A4vtz9eIvVo)
+    已建立Task: （空）
+    紀錄原因: 《穹蒼美股 App》一套幫你建立投資邏輯的行動工具<br>📥 手機下載連結：https://www.cmoney.tw/r/256/51ix3a
+    標籤: （空）
+    建立時間: 2025-07-25 19:12
+    Note: （空）
+
+Claude Code v1.0.60 正式支援 /agents 斜線命令，讓你可以直接從 Claude Code 呼叫 Claude Code SDK，以多個 Sub-Agents 同時執行的多重任務，
+
+    名稱: Claude Code v1.0.60 正式支援 /agents 斜線命令，讓你可以直接從 Claude Code 呼叫 Claude Code SDK，以多個 Sub-Agents 同時執行的多重任務，
+    狀態: Done
+    預計行動: 備查
+    Create Task: （空）
+    URL: [連結](https://www.facebook.com/watch/?v=1796760107925916&rdid=gtvOkec9cLg3jvGy)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-07-25 10:31
+    Note: （空）
+
+ALaN 在 Instagram: "3款免費商用字體推薦 ✅ 免費下載 ✅ 可以商用 ✅ 就很好看 1️⃣ 小米黑體 正負空間拿捏剛好 閱讀舒適度度甚至大於臺北黑體 關鍵字：中性、平衡、穩重 2️⃣ 台灣明體 看網路上分享挖到的寶藏字體 差別就在邊緣添加彎曲的趣味感 關鍵字：質感、高貴、不落俗套 ⚠️留言補充：商用有些許爭議請注意 3️⃣ 饅頭黑體 俗稱：平民款激燃體 沒有預算買它的設計師 我們先用饅頭黑體頂一下 關鍵字：突顯、大膽、動感 影片部分素材：設事未深-字體大補帖"
+
+    名稱: ALaN 在 Instagram: "3款免費商用字體推薦 ✅ 免費下載 ✅ 可以商用 ✅ 就很好看 1️⃣ 小米黑體 正負空間拿捏剛好 閱讀舒適度度甚至大於臺北黑體 關鍵字：中性、平衡、穩重 2️⃣ 台灣明體 看網路上分享挖到的寶藏字體 差別就在邊緣添加彎曲的趣味感 關鍵字：質感、高貴、不落俗套 ⚠️留言補充：商用有些許爭議請注意 3️⃣ 饅頭黑體 俗稱：平民款激燃體 沒有預算買它的設計師 我們先用饅頭黑體頂一下 關鍵字：突顯、大膽、動感 影片部分素材：設事未深-字體大補帖"
+    狀態: Done
+    預計行動: 短文閱讀
+    Create Task: （空）
+    URL: [連結](https://www.instagram.com/reel/DKjiJPkz9K0/?igsh=MXgxdWV5bzFjY3dvZQ==)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-07-25 09:54
+    Note: （空）
+
+斯特AI 在 Instagram: "#ai#ai认知#ai工具#干货分享"
+
+    名稱: 斯特AI 在 Instagram: "#ai#ai认知#ai工具#干货分享"
+    狀態: Done
+    預計行動: 短影音觀看
+    Create Task: （空）
+    URL: [連結](https://www.instagram.com/reel/DMbt1jhJoFI/?igsh=MXM3NWQ5YmE3ZjQ4ZA==)
+    已建立Task: （空）
+    紀錄原因: media ai, fish speech, tinywow
+    標籤: ai
+    建立時間: 2025-07-25 09:32
+    Note: （空）
+
+Brian Psony - ✦ 為什麼我不開感情力了？ 最近收到幾位老同學問：「P大怎麼沒有開感情力了？」 也有 follow... | Facebook
+
+    名稱: Brian Psony - ✦ 為什麼我不開感情力了？ 最近收到幾位老同學問：「P大怎麼沒有開感情力了？」 也有 follow... | Facebook
+    狀態: Done
+    預計行動: 備查, 短文閱讀
+    Create Task: （空）
+    URL: [連結](https://www.facebook.com/brian.psony/posts/2561473547551310?rdid=nNHowIXaUKhYor4S)
+    已建立Task: Brian Psony - ✦ 為什麼我不開感情力了？ 最近收到幾位老同學問：「P大怎麼沒有開感情力了？」 也有 follow... | Facebook  (https://www.notion.so/Brian-Psony-P-follow-Facebook-23e45cd11e858035b6a4c7a6cb1fcc84?pvs=21)
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-07-25 01:00
+    Note: Brian Psony - ✦ 為什麼我不開感情力了？ 最近收到幾位老同學問：「P大怎麼沒有開感情力了？」 也有 follow... | Facebook<br>https://www.facebook.com/brian.psony/posts/2561473547551310?rdid=nNHowIXaUKhYor4S
+
+🌙深夜咖啡廳竟然有月老坐鎮？ 你正在暈船嗎？ 為情所困的善男信女不用跑台南 月老駐點的深夜咖啡廳 就在公館捷運站
+
+    名稱: 🌙深夜咖啡廳竟然有月老坐鎮？ 你正在暈船嗎？ 為情所困的善男信女不用跑台南 月老駐點的深夜咖啡廳 就在公館捷運站
+    狀態: Done
+    預計行動: 備查
+    Create Task: （空）
+    URL: [連結](https://www.instagram.com/reel/DIkqi_sTuZ0/?igsh=MTg1dGt3MW4weGo3MQ==)
+    已建立Task: 🌙深夜咖啡廳竟然有月老坐鎮？ 你正在暈船嗎？ 為情所困的善男信女不用跑台南 月老駐點的深夜咖啡廳 就在公館捷運站   (https://www.notion.so/23e45cd11e8580f4a80cd893df63b0c8?pvs=21)
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-06-07 02:39
+    Note: （空）
+
+Threads 上的國北教大_教育大數據微學程（@ntue.bigdata）
+
+    名稱: Threads 上的國北教大_教育大數據微學程（@ntue.bigdata）
+    狀態: Done
+    預計行動: 備查
+    Create Task: （空）
+    URL: [連結](https://www.threads.com/@ntue.bigdata/post/DJ5emW5y9OH?xmt=AQF0HaqH5O8v2-HztuBNEdErslvvvg6t_wtmIiAl2cm_dA)
+    已建立Task: Threads 上的國北教大_教育大數據微學程（@ntue.bigdata）  (https://www.notion.so/Threads-_-ntue-bigdata-23e45cd11e85803f9a70e1831db3e55d?pvs=21)
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-05-22 08:53
+    Note: （空）
+
+這是一本書上寫的策略，選股估值的推理過程都感覺很合乎邏輯，但是實測起來可能就是普通程度，甚至比大盤弱蠻多的。
+
+    名稱: 這是一本書上寫的策略，選股估值的推理過程都感覺很合乎邏輯，但是實測起來可能就是普通程度，甚至比大盤弱蠻多的。
+    狀態: Done
+    預計行動: 備查
+    Create Task: （空）
+    URL: [連結](https://www.facebook.com/share/p/1AeYZQA9t2/?mibextid=wwXIfr)
+    已建立Task: 這是一本書上寫的策略，選股估值的推理過程都感覺很合乎邏輯，但是實測起來可能就是普通程度，甚至比大盤弱蠻多的。  (https://www.notion.so/23e45cd11e8580c5981ccd1cf048df08?pvs=21)
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-05-19 21:05
+    Note: （空）
+
+我是一個豪老師在 Instagram: "三步驟學會量子力學 #我是一個豪老師 #學校 #自學 #AI #教育 #學習 #wondershare創作者計劃2025 #edrawmind #職場小白"
+
+    名稱: 我是一個豪老師在 Instagram: "三步驟學會量子力學 #我是一個豪老師 #學校 #自學 #AI #教育 #學習 #wondershare創作者計劃2025 #edrawmind #職場小白"
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.instagram.com/reel/DJtfVfwzASD/?igsh=YTlocGlvMjQ3dm91)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-05-19 18:15
+    Note: （空）
+
+https://www.facebook.com/share/1C3nHfY22N/?mibextid=wwXIfr
+
+    名稱: https://www.facebook.com/share/1C3nHfY22N/?mibextid=wwXIfr
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: （空）
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-05-19 10:56
+    Note: （空）
+
+好日子不打烊在 Instagram: "台北超浮誇共享辦公室？咖啡喝到飽、24h淋浴間 還有私人的ktv 包廂可以用～難想像個人、共享辦公室可以這樣子享受… 除了有個人座位以外、還有內建會議室可以用。 ✅咖啡吧、氣泡水、茶飲、插座、24小時淋浴間（洗澡+刷牙）、微波爐、烤箱、影印機、冰箱、廚房、KTV包廂，想下廚做料理也可以～ 我大概知道為什麼很多小公司，喜歡這種24小時共享空間辦公室了，因為可以省電費和水費…！ 📌市井商務中心 Coworking Space 地點：國父紀念館站1號出口 （ 大巨蛋松菸旁、也靠近敦化站） #台北 #共享空間 #共享辦公室 #coworkingspace #工作室 #遠距工作 #wfh #taipei"
+
+    名稱: 好日子不打烊在 Instagram: "台北超浮誇共享辦公室？咖啡喝到飽、24h淋浴間 還有私人的ktv 包廂可以用～難想像個人、共享辦公室可以這樣子享受… 除了有個人座位以外、還有內建會議室可以用。 ✅咖啡吧、氣泡水、茶飲、插座、24小時淋浴間（洗澡+刷牙）、微波爐、烤箱、影印機、冰箱、廚房、KTV包廂，想下廚做料理也可以～ 我大概知道為什麼很多小公司，喜歡這種24小時共享空間辦公室了，因為可以省電費和水費…！ 📌市井商務中心 Coworking Space 地點：國父紀念館站1號出口 （ 大巨蛋松菸旁、也靠近敦化站） #台北 #共享空間 #共享辦公室 #coworkingspace #工作室 #遠距工作 #wfh #taipei"
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.instagram.com/reel/DJOwNlHyyj6/?igsh=cGc4eHloNHA1Nnhh)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-05-11 19:41
+    Note: （空）
+
+Facebook
+
+    名稱: Facebook
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.facebook.com/daniel.taipei/videos/4089635674655366/?rdid=4eoc8jnmAAuOM8WZ)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-05-10 22:42
+    Note: （空）
+
+快樂冠軍有限公司-陳沂 - ✈️TRAVEL GEAR旅行壓縮袋來了！！！ 你們是不是有行李箱不管再大都不夠裝的煩惱？... | Facebook
+
+    名稱: 快樂冠軍有限公司-陳沂 - ✈️TRAVEL GEAR旅行壓縮袋來了！！！ 你們是不是有行李箱不管再大都不夠裝的煩惱？... | Facebook
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.facebook.com/Happychampioncompany/posts/714167347622737?rdid=S1DNPRcI7427Fp8b)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-05-06 18:07
+    Note: （空）
+
+Generative AI 技術交流中心 | 讓 AI 執行指令，低成本搞定任務 | Facebook
+
+    名稱: Generative AI 技術交流中心 | 讓 AI 執行指令，低成本搞定任務 | Facebook
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.facebook.com/groups/gaitech/permalink/1382500512934160/?rdid=5BRDaM1vWApcBDDl&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fp%2F1FjfkiBSBX%2F)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-05-02 11:31
+    Note: （空）
+
+https://www.facebook.com/share/p/12M8MgQPB1h/?mibextid=wwXIfr
+
+    名稱: https://www.facebook.com/share/p/12M8MgQPB1h/?mibextid=wwXIfr
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: （空）
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-30 23:16
+    Note: （空）
+
+今年以來看過最好的投資文，沒有之一... - 國際之男 - Man lives in offshore | Facebook
+
+    名稱: 今年以來看過最好的投資文，沒有之一... - 國際之男 - Man lives in offshore | Facebook
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.facebook.com/manlivesinoffshore/posts/1005105128394714?rdid=GCPExpFyv4HXjcaI)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-30 20:01
+    Note: （空）
+
+https://www.facebook.com/share/p/168JGuQgV2/?mibextid=wwXIfr
+
+    名稱: https://www.facebook.com/share/p/168JGuQgV2/?mibextid=wwXIfr
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: （空）
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-30 09:05
+    Note: （空）
+
+https://www.facebook.com/share/p/1EA1tV8mys/?mibextid=wwXIfr
+
+    名稱: https://www.facebook.com/share/p/1EA1tV8mys/?mibextid=wwXIfr
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: （空）
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-28 22:40
+    Note: （空）
+
+全國電子 macbook
+
+    名稱: 全國電子 macbook
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://m.facebook.com/story.php?story_fbid=1101355528688529&id=100064422776358)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-21 13:18
+    Note: （空）
+
+Threads 上的 Jessica Fu（@hi.jessica.fu）
+
+    名稱: Threads 上的 Jessica Fu（@hi.jessica.fu）
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.threads.net/@hi.jessica.fu/post/DIojUf0BSZj?xmt=AQGzidWEVLdTKIngAN1hMrjF8SiwlC_klj7dazx_d9GZ_w)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-20 09:19
+    Note: （空）
+
+Threads 上的 Winnie Lin（@imwinnie_lin）
+
+    名稱: Threads 上的 Winnie Lin（@imwinnie_lin）
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.threads.net/@imwinnie_lin/post/DInwOXxxi7o?xmt=AQGz7mehdwgmnb5YD8S8SkyzvvZ01jcqRvJ7Eci6vI3Xgg)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-20 09:17
+    Note: （空）
+
+一股GoodJob 在 Instagram: "拜託不要再連錯網址，然後說要錢了，網址是這個： https://raphael.app/zh-Hant 而且這個資訊不是只有我寫，在那邊回一些不是免費的錯誤留言，要不要先去Google一下，不會用Google的人沒有資格用AI 其他部落客也有寫 https://mrmad.com.tw/raphael-ai 別只會用chatGPT產圖片 這款完全免費 #AIGC #提示詞 #prompt #chatGPT #AI #大模型 #LLM #自動化 #aiagent #工作流程 #workflow #工具 #攻略 #創業 #網路 #科技 #冷知識 #工作 #一股"
+
+    名稱: 一股GoodJob 在 Instagram: "拜託不要再連錯網址，然後說要錢了，網址是這個： https://raphael.app/zh-Hant 而且這個資訊不是只有我寫，在那邊回一些不是免費的錯誤留言，要不要先去Google一下，不會用Google的人沒有資格用AI 其他部落客也有寫 https://mrmad.com.tw/raphael-ai 別只會用chatGPT產圖片 這款完全免費 #AIGC #提示詞 #prompt #chatGPT #AI #大模型 #LLM #自動化 #aiagent #工作流程 #workflow #工具 #攻略 #創業 #網路 #科技 #冷知識 #工作 #一股"
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.instagram.com/reel/DGDJ36FyjW6/?igsh=NmFmZmFkbnIxMjh4)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-20 01:27
+    Note: （空）
+
+Snow Sensei 滑雪老司機 - Perry叔叔 / 文彥博在 Instagram: "離開雪地才短短兩三天，怎麼全身上下都不對勁？ 同學，你／妳滑雪上癮了啦！！ 馬不停蹄，Snow Sensei Group 最新企劃來啦！ 「滑雪教練｜國際證照考前培訓課程」正式啟動！ 是的，這次由叔叔親自領軍，SSG 教學團隊聯手出擊。 我們集合來自 AASI（美國）、AADIDESS（阿根廷）、CASI（加拿大）、SSSA（瑞士）等多國證照系統的經驗，訓練員們具備全面的滑行能力與豐富的教學經驗，為你打造最全面、最實戰的教練預備課程！ 我們怎麼教？教什麼？ • 根據不同證照系統進行分析與拆解，對症下藥、一一擊破 • 高階指導員全程陪滑指導，幫你累積真正有用的滑行與教學經驗 • 手把手調整姿勢與動作，優化技術、突破瓶頸 • 模擬考試實戰場景，幫你重建應試心態，讓你不再怕上場！ ⸻ 為什麼你需要參加 Pre-Course？ • 想當教練，但不知道怎麼準備？ • 考過一次沒過，好挫折？想更有效率地衝一波？ • 技術不錯，但對考試標準一知半解？ • 想培養真正的教學能力，提升講解與拆解邏輯？ 這堂課就是你的跳板！不只是幫你準備考試，更幫你建立屬於自己的教學底蘊與職涯信心。 ⸻ 雪道無界，夢想無限。 現在就報名，踏上你的滑雪教練修煉之路！ 報名請參考主頁連結"
+
+    名稱: Snow Sensei 滑雪老司機 - Perry叔叔 / 文彥博在 Instagram: "離開雪地才短短兩三天，怎麼全身上下都不對勁？ 同學，你／妳滑雪上癮了啦！！ 馬不停蹄，Snow Sensei Group 最新企劃來啦！ 「滑雪教練｜國際證照考前培訓課程」正式啟動！ 是的，這次由叔叔親自領軍，SSG 教學團隊聯手出擊。 我們集合來自 AASI（美國）、AADIDESS（阿根廷）、CASI（加拿大）、SSSA（瑞士）等多國證照系統的經驗，訓練員們具備全面的滑行能力與豐富的教學經驗，為你打造最全面、最實戰的教練預備課程！ 我們怎麼教？教什麼？ • 根據不同證照系統進行分析與拆解，對症下藥、一一擊破 • 高階指導員全程陪滑指導，幫你累積真正有用的滑行與教學經驗 • 手把手調整姿勢與動作，優化技術、突破瓶頸 • 模擬考試實戰場景，幫你重建應試心態，讓你不再怕上場！ ⸻ 為什麼你需要參加 Pre-Course？ • 想當教練，但不知道怎麼準備？ • 考過一次沒過，好挫折？想更有效率地衝一波？ • 技術不錯，但對考試標準一知半解？ • 想培養真正的教學能力，提升講解與拆解邏輯？ 這堂課就是你的跳板！不只是幫你準備考試，更幫你建立屬於自己的教學底蘊與職涯信心。 ⸻ 雪道無界，夢想無限。 現在就報名，踏上你的滑雪教練修煉之路！ 報名請參考主頁連結"
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.instagram.com/reel/DInxhF4zeTs/?igsh=MWFmeTJ2azIxNWpjbA==)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-19 23:25
+    Note: （空）
+
+Threads 上的粘瀚文（@billy_nien）
+
+    名稱: Threads 上的粘瀚文（@billy_nien）
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.threads.net/@billy_nien/post/DIkwjSIvKGe?xmt=AQGz1R1u8-CmhIM6l18zTiBSXCk3PK2ZYxf40hJp2U9U8w)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-19 01:48
+    Note: （空）
+
+Threads 上的 Prompt Case（@prompt_case）
+
+    名稱: Threads 上的 Prompt Case（@prompt_case）
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.threads.net/@prompt_case/post/DIlZJBdxr8x?xmt=AQGznRmgyz_4JT4EfeuPmWfHNeKBT7G3SWdWj1zi5-K1TQ)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-19 01:47
+    Note: （空）
+
+https://www.facebook.com/share/p/16Qn8yFVC8/?mibextid=wwXIfr
+
+    名稱: https://www.facebook.com/share/p/16Qn8yFVC8/?mibextid=wwXIfr
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: （空）
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-18 09:54
+    Note: （空）
+
+https://www.facebook.com/share/1DfX8ELoxE/?mibextid=wwXIfr
+
+    名稱: https://www.facebook.com/share/1DfX8ELoxE/?mibextid=wwXIfr
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: （空）
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-17 21:17
+    Note: （空）
+
+矽谷輕鬆談 Just Kidding Tech（@jktech.io） • Threads，暢所欲言
+
+    名稱: 矽谷輕鬆談 Just Kidding Tech（@jktech.io） • Threads，暢所欲言
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.threads.net/@jktech.io?xmt=AQGzHJSMOPKSsg72vzbKgVQ8izuNsZLGQQHHeF5UXUb6GYA)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-17 15:19
+    Note: （空）
+
+效率前緣計算(資產配置) - YP-Finance(YP指投網)
+
+    名稱: 效率前緣計算(資產配置) - YP-Finance(YP指投網)
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://tool.yp-finance.com/efficientfrontier?fbclid=IwY2xjawJtZ-dleHRuA2FlbQIxMAABHuui_7FzLwT0HUmy48bacq4dnfrEtkzC9Gqd0Kcbqlt4uDkqr8B0epfeGh4y_aem_zs0TbFIivgf8QDDbisslNg)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-17 15:18
+    Note: （空）
+
+openai/codex: Lightweight coding agent that runs in your terminal
+
+    名稱: openai/codex: Lightweight coding agent that runs in your terminal
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://github.com/openai/codex)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-17 15:18
+    Note: （空）
+
+How To Build Full-Stack AI Agents 🚀 (CrewAI + CopilotKit) - DEV Community
+
+    名稱: How To Build Full-Stack AI Agents 🚀 (CrewAI + CopilotKit) - DEV Community
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://dev.to/copilotkit/how-to-build-full-stack-ai-agents-crewai-copilotkit-1fn6?context=digest)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-17 15:18
+    Note: （空）
+
+(11) 一口气了解美联储 | 全球权力最大的金融机构 - YouTube
+
+    名稱: (11) 一口气了解美联储 | 全球权力最大的金融机构 - YouTube
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.youtube.com/watch?v=iGz2uWl-kGc)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-17 15:17
+    Note: （空）
+
+openai/codex: Lightweight coding agent that runs in your terminal
+
+    名稱: openai/codex: Lightweight coding agent that runs in your terminal
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://github.com/openai/codex)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-17 13:19
+    Note: （空）
+
+美股老司機 3.0 - 美國電力需求才剛開始成長 美國能源資訊署 (EIA) 預計： 2025 年電力需求將達到 4.2... | Facebook
+
+    名稱: 美股老司機 3.0 - 美國電力需求才剛開始成長 美國能源資訊署 (EIA) 預計： 2025 年電力需求將達到 4.2... | Facebook
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.facebook.com/permalink.php?story_fbid=122145405488486922&id=61564607679559)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-17 13:12
+    Note: （空）
+
+老墨 Mofi - 現在台指選擇權，同樣距離的 PUT 比 CALL 貴快 10 倍。... | Facebook
+
+    名稱: 老墨 Mofi - 現在台指選擇權，同樣距離的 PUT 比 CALL 貴快 10 倍。... | Facebook
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.facebook.com/mofi.investment/posts/1126518526158231?rdid=mWtfNFfN8YQt2bBg#)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-17 12:55
+    Note: （空）
+
+Facebook 很喜歡東京這個角落的街景，十幾年的回憶。<br>
+
+    名稱: Facebook 很喜歡東京這個角落的街景，十幾年的回憶。<br>
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.facebook.com/photo/?fbid=1223566953105636&set=a.209279374534404)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-17 12:23
+    Note: （空）
+
+每日英語小課堂 - 詞根詞綴速記 sist —站立，保持 | Facebook
+
+    名稱: 每日英語小課堂 - 詞根詞綴速記 sist —站立，保持 | Facebook
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.facebook.com/permalink.php?story_fbid=1067103838770703&id=100064132901842&rdid=FyqxCQRLH9c4yyk7)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-17 10:16
+    Note: （空）
+
+Pawan Kumar • Social Media Marketing | AI 在 Instagram: "Free vs Paid AI Tools! 🔥 . . Al isn’t replacing you - it’s helping you work smarter and achieve more with less effort! If you use it wisely.. 📌 Save this & share with others! #ai #aitools #chatgpt #contentcreation #artificialintelligence #canva"
+
+    名稱: Pawan Kumar • Social Media Marketing | AI 在 Instagram: "Free vs Paid AI Tools! 🔥 . . Al isn’t replacing you - it’s helping you work smarter and achieve more with less effort! If you use it wisely.. 📌 Save this & share with others! #ai #aitools #chatgpt #contentcreation #artificialintelligence #canva"
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.instagram.com/reel/DIWMuo6Tx-d/?igsh=ZWt5d3d1aGpubDk0)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-16 23:30
+    Note: （空）
+
+Global chip stocks slide as Nvidia warns of big hit from US export curbs
+
+    名稱: Global chip stocks slide as Nvidia warns of big hit from US export curbs
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://finance.yahoo.com/news/global-chip-stocks-slide-nvidia-110516321.html)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-16 19:38
+    Note: （空）
+
+K 軟體工程師在 Instagram: "這東西其實完全沒任何技術難度 照著按一按就做得出來 目前測試看來在完全新的專案下跑出來的效果比較好 如果是自己專案內本來就有其他css規範或是框架 效果就會差一點，但相信給的文件跟prompt 好一點的話還是能有省下很多手刻版面的時間。 還有什麼有趣的MCP歡迎推薦給我知道"
+
+    名稱: K 軟體工程師在 Instagram: "這東西其實完全沒任何技術難度 照著按一按就做得出來 目前測試看來在完全新的專案下跑出來的效果比較好 如果是自己專案內本來就有其他css規範或是框架 效果就會差一點，但相信給的文件跟prompt 好一點的話還是能有省下很多手刻版面的時間。 還有什麼有趣的MCP歡迎推薦給我知道"
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.instagram.com/reel/DHqc8Zhyzjw/?igsh=MWZnOWY1OXhjZGkyMw==)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-16 16:00
+    Note: （空）
+
+ASML warns tariffs cloud outlook for 2025 and 2026
+
+    名稱: ASML warns tariffs cloud outlook for 2025 and 2026
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://finance.yahoo.com/news/asmls-bookings-miss-estimates-q1-050503468.html)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-16 15:28
+    Note: （空）
+
+天啊！AI已經逼真到這個程度了嗎？￼￼🤯 ￼ 快去試試生成👉￼https://klingai.com/global/
+
+    名稱: 天啊！AI已經逼真到這個程度了嗎？￼￼🤯 ￼ 快去試試生成👉￼https://klingai.com/global/
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://www.threads.net/@ai_taprompt/post/DIfM_DcBX8I?xmt=AQGzHJSMOPKSsg72vzbKgVQ8izuNsZLGQQHHeF5UXUb6GYA)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-16 13:59
+    Note: （空）
+
+关于我们的视觉小说框架Nova（能叶） - 知乎
+
+    名稱: 关于我们的视觉小说框架Nova（能叶） - 知乎
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: [連結](https://zhuanlan.zhihu.com/p/272466277)
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-16 11:39
+    Note: （空）
+
+https://www.facebook.com/share/1CZKukvNS1/?mibextid=wwXIfr
+
+    名稱: https://www.facebook.com/share/1CZKukvNS1/?mibextid=wwXIfr
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: （空）
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-16 10:58
+    Note: （空）
+
+https://www.facebook.com/share/1ZMSkEsEib/?mibextid=wwXIfr
+
+    名稱: https://www.facebook.com/share/1ZMSkEsEib/?mibextid=wwXIfr
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: （空）
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-16 10:46
+    Note: （空）
+
+https://www.facebook.com/share/p/1ED24FroJ8/?mibextid=wwXIfr
+
+    名稱: https://www.facebook.com/share/p/1ED24FroJ8/?mibextid=wwXIfr
+    狀態: Wait
+    預計行動: （空）
+    Create Task: （空）
+    URL: （空）
+    已建立Task: （空）
+    紀錄原因: （空）
+    標籤: （空）
+    建立時間: 2025-04-15 21:51
+    Note: （空）
